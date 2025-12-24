@@ -36,3 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 This application is built using a Next.JS framework, which is on top of a React front-end and a Node.js back end.  I plan to use an AWS db, likely SQL.  Maybe MongoDB.
+Plans are to containerize this image after and deploy it on aws EC2.
